@@ -6,4 +6,5 @@
 // feature 1 zijn change
 (function(){
     "use strict";
+    console.log(new Date());
 })();
