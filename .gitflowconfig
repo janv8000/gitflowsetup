@@ -1,0 +1,6 @@
+[gitflow "feature.finish"]
+	fetch = true
+    rebase = true
+    no-ff = true
+[gitflow "feature.start"]
+	fetch = true
